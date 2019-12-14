@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Everythink Inc</string>
+    <string name="users_list">Lista de usuarios</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="image_user">Image User</string>
+    <string name="icon_user">Icon User</string>
+    <string name="icon_date">Icon Date</string>
+    <string name="icon_phone">Icon Phone</string>
+    <string name="icon_mail">Icon Mail</string>
+    <string name="icon_world">Icon World</string>
+</resources>
